@@ -1,4 +1,4 @@
-# Módulo 1: Análisis de Necesidades de Producción.
+# Módulo 1: Análisis de Necesidades de Producción. Realizado por Juan Diego Cordero.
 
 # Función 1. Transfiere los datos exportados de SQL Server a arreglos matemáticos.
 
